@@ -1,0 +1,762 @@
+Extract KB from http://www.sparknotes.com/lit/dollhouse/summary.html... into data/Sparknotes_KB/A_Doll's_House.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "A Doll's House","http://www.sparknotes.com/lit/dollhouse/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/dollhouse/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "A Doll's House","http://www.sparknotes.com/lit/dollhouse/summary.html" A House Doll's
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 29 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "A Doll's House","http://www.sparknotes.com/lit/dollhouse/summary.html" - achieved 113 facts!
+Extract KB from http://www.sparknotes.com/shakespeare/msnd/summary.html... into data/Sparknotes_KB/A_Midsummer_Night's_Dream.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "A Midsummer Night's Dream","http://www.sparknotes.com/shakespeare/msnd/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/shakespeare/msnd/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "A Midsummer Night's Dream","http://www.sparknotes.com/shakespeare/msnd/summary.html" Dream A Midsummer Night's
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 24 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "A Midsummer Night's Dream","http://www.sparknotes.com/shakespeare/msnd/summary.html" - achieved 50 facts!
+Extract KB from http://www.sparknotes.com/lit/portraitartist/summary.html... into data/Sparknotes_KB/A_Portrait_of_the_Artist_as_a_Young_Man.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "A Portrait of the Artist as a Young Man","http://www.sparknotes.com/lit/portraitartist/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "A Portrait of the Artist as a Young Man","http://www.sparknotes.com/lit/portraitartist/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 0 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "A Portrait of the Artist as a Young Man","http://www.sparknotes.com/lit/portraitartist/summary.html" - achieved 0 facts!
+Extract KB from http://www.sparknotes.com/lit/twocities/summary.html... into data/Sparknotes_KB/A_Tale_of_Two_Cities.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "A Tale of Two Cities","http://www.sparknotes.com/lit/twocities/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/twocities/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "A Tale of Two Cities","http://www.sparknotes.com/lit/twocities/summary.html" A Tale of Cities Two
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 27 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "A Tale of Two Cities","http://www.sparknotes.com/lit/twocities/summary.html" - achieved 90 facts!
+Extract KB from http://www.sparknotes.com/lit/adambede/summary.html... into data/Sparknotes_KB/Adam_Bede.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Adam Bede","http://www.sparknotes.com/lit/adambede/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Adam Bede","http://www.sparknotes.com/lit/adambede/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 0 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Adam Bede","http://www.sparknotes.com/lit/adambede/summary.html" - achieved 0 facts!
+Extract KB from http://www.sparknotes.com/drama/idealhusband/summary.html... into data/Sparknotes_KB/An_Ideal_Husband.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "An Ideal Husband","http://www.sparknotes.com/drama/idealhusband/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/drama/idealhusband/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "An Ideal Husband","http://www.sparknotes.com/drama/idealhusband/summary.html" Husband Ideal An
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 20 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "An Ideal Husband","http://www.sparknotes.com/drama/idealhusband/summary.html" - achieved 54 facts!
+Extract KB from http://www.sparknotes.com/lit/anna/summary.html... into data/Sparknotes_KB/Anna_Karenina.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Anna Karenina","http://www.sparknotes.com/lit/anna/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/anna/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Anna Karenina","http://www.sparknotes.com/lit/anna/summary.html" Karenina Anna
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 30 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Anna Karenina","http://www.sparknotes.com/lit/anna/summary.html" - achieved 101 facts!
+Extract KB from http://www.sparknotes.com/lit/anneofgreengables/summary.html... into data/Sparknotes_KB/Anne_of_Green_Gables.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Anne of Green Gables","http://www.sparknotes.com/lit/anneofgreengables/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/anneofgreengables/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Anne of Green Gables","http://www.sparknotes.com/lit/anneofgreengables/summary.html" of Anne Green Gables
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 21 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Anne of Green Gables","http://www.sparknotes.com/lit/anneofgreengables/summary.html" - achieved 56 facts!
+Extract KB from http://www.sparknotes.com/shakespeare/antony/summary.html... into data/Sparknotes_KB/Antony_and_Cleopatra.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Antony and Cleopatra","http://www.sparknotes.com/shakespeare/antony/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/shakespeare/antony/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Antony and Cleopatra","http://www.sparknotes.com/shakespeare/antony/summary.html" Cleopatra and Antony
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 25 paragaphs!
+[main] ERROR tk.otfkb.demo.DemoSetup - Errors: no subject found! he::imprisons::him
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Antony and Cleopatra","http://www.sparknotes.com/shakespeare/antony/summary.html" - achieved 66 facts!
+Extract KB from http://www.sparknotes.com/shakespeare/asyoulikeit/summary.html... into data/Sparknotes_KB/As_You_Like_It.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "As You Like It","http://www.sparknotes.com/shakespeare/asyoulikeit/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/shakespeare/asyoulikeit/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "As You Like It","http://www.sparknotes.com/shakespeare/asyoulikeit/summary.html" As Like It You
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 27 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "As You Like It","http://www.sparknotes.com/shakespeare/asyoulikeit/summary.html" - achieved 76 facts!
+Extract KB from http://www.sparknotes.com/lit/babbitt/summary.html... into data/Sparknotes_KB/Babbitt.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Babbitt","http://www.sparknotes.com/lit/babbitt/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/babbitt/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Babbitt","http://www.sparknotes.com/lit/babbitt/summary.html" Babbitt
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 1 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Babbitt","http://www.sparknotes.com/lit/babbitt/summary.html" - achieved 54 facts!
+Extract KB from http://www.sparknotes.com/lit/bleakhouse/summary.html... into data/Sparknotes_KB/Bleak_House.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Bleak House","http://www.sparknotes.com/lit/bleakhouse/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/bleakhouse/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Bleak House","http://www.sparknotes.com/lit/bleakhouse/summary.html" Bleak House
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 51 paragaphs!
+[main] ERROR tk.otfkb.demo.DemoSetup - Errors: no subject found! her::she::?s
+[main] ERROR tk.otfkb.demo.DemoSetup - Errors: no subject found! He::tells::him
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Bleak House","http://www.sparknotes.com/lit/bleakhouse/summary.html" - achieved 174 facts!
+Extract KB from http://www.sparknotes.com/lit/candide/summary.html... into data/Sparknotes_KB/Candide.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Candide","http://www.sparknotes.com/lit/candide/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/candide/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Candide","http://www.sparknotes.com/lit/candide/summary.html" Candide
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 26 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Candide","http://www.sparknotes.com/lit/candide/summary.html" - achieved 100 facts!
+Extract KB from http://www.sparknotes.com/lit/cyrano/summary.html... into data/Sparknotes_KB/Cyrano_de_Bergerac.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Cyrano de Bergerac","http://www.sparknotes.com/lit/cyrano/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/cyrano/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Cyrano de Bergerac","http://www.sparknotes.com/lit/cyrano/summary.html" de Bergerac Cyrano
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 25 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Cyrano de Bergerac","http://www.sparknotes.com/lit/cyrano/summary.html" - achieved 95 facts!
+Extract KB from http://www.sparknotes.com/lit/donquixote/summary.html... into data/Sparknotes_KB/Don_Quixote.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Don Quixote","http://www.sparknotes.com/lit/donquixote/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/donquixote/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Don Quixote","http://www.sparknotes.com/lit/donquixote/summary.html" Don Quixote
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 30 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Don Quixote","http://www.sparknotes.com/lit/donquixote/summary.html" - achieved 58 facts!
+Extract KB from http://www.sparknotes.com/lit/jekyll/summary.html... into data/Sparknotes_KB/Dr._Jekyll_and_Mr._Hyde.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Dr. Jekyll and Mr. Hyde","http://www.sparknotes.com/lit/jekyll/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/jekyll/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Dr. Jekyll and Mr. Hyde","http://www.sparknotes.com/lit/jekyll/summary.html" Hyde Dr. Jekyll and Mr.
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 24 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Dr. Jekyll and Mr. Hyde","http://www.sparknotes.com/lit/jekyll/summary.html" - achieved 60 facts!
+Extract KB from http://www.sparknotes.com/lit/dracula/summary.html... into data/Sparknotes_KB/Dracula.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Dracula","http://www.sparknotes.com/lit/dracula/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/dracula/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Dracula","http://www.sparknotes.com/lit/dracula/summary.html" Dracula
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 28 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Dracula","http://www.sparknotes.com/lit/dracula/summary.html" - achieved 81 facts!
+Extract KB from http://www.sparknotes.com/lit/dubliners/summary.html... into data/Sparknotes_KB/Dubliners.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Dubliners","http://www.sparknotes.com/lit/dubliners/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/dubliners/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Dubliners","http://www.sparknotes.com/lit/dubliners/summary.html" Dubliners
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 33 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Dubliners","http://www.sparknotes.com/lit/dubliners/summary.html" - achieved 89 facts!
+Extract KB from http://www.sparknotes.com/lit/emma/summary.html... into data/Sparknotes_KB/Emma.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Emma","http://www.sparknotes.com/lit/emma/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/emma/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Emma","http://www.sparknotes.com/lit/emma/summary.html" Emma
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 23 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Emma","http://www.sparknotes.com/lit/emma/summary.html" - achieved 72 facts!
+Extract KB from http://www.sparknotes.com/lit/frome/summary.html... into data/Sparknotes_KB/Ethan_Frome.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Ethan Frome","http://www.sparknotes.com/lit/frome/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/frome/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Ethan Frome","http://www.sparknotes.com/lit/frome/summary.html" Ethan Frome
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 31 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Ethan Frome","http://www.sparknotes.com/lit/frome/summary.html" - achieved 70 facts!
+Extract KB from http://www.sparknotes.com/lit/maddingcrowd/summary.html... into data/Sparknotes_KB/Far_from_the_Madding_Crowd.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Far from the Madding Crowd","http://www.sparknotes.com/lit/maddingcrowd/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Far from the Madding Crowd","http://www.sparknotes.com/lit/maddingcrowd/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 0 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Far from the Madding Crowd","http://www.sparknotes.com/lit/maddingcrowd/summary.html" - achieved 0 facts!
+Extract KB from http://www.sparknotes.com/lit/ghosts/summary.html... into data/Sparknotes_KB/Ghosts.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Ghosts","http://www.sparknotes.com/lit/ghosts/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/ghosts/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Ghosts","http://www.sparknotes.com/lit/ghosts/summary.html" Ghosts
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 1 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Ghosts","http://www.sparknotes.com/lit/ghosts/summary.html" - achieved 48 facts!
+Extract KB from http://www.sparknotes.com/lit/greatex/summary.html... into data/Sparknotes_KB/Great_Expectations.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Great Expectations","http://www.sparknotes.com/lit/greatex/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/greatex/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Great Expectations","http://www.sparknotes.com/lit/greatex/summary.html" Great Expectations
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 30 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Great Expectations","http://www.sparknotes.com/lit/greatex/summary.html" - achieved 102 facts!
+Extract KB from http://www.sparknotes.com/shakespeare/hamlet/summary.html... into data/Sparknotes_KB/Hamlet.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Hamlet","http://www.sparknotes.com/shakespeare/hamlet/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/shakespeare/hamlet/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Hamlet","http://www.sparknotes.com/shakespeare/hamlet/summary.html" Hamlet
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 29 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Hamlet","http://www.sparknotes.com/shakespeare/hamlet/summary.html" - achieved 67 facts!
+Extract KB from http://www.sparknotes.com/lit/hardtimes/summary.html... into data/Sparknotes_KB/Hard_Times.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Hard Times","http://www.sparknotes.com/lit/hardtimes/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Hard Times","http://www.sparknotes.com/lit/hardtimes/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 0 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Hard Times","http://www.sparknotes.com/lit/hardtimes/summary.html" - achieved 0 facts!
+Extract KB from http://www.sparknotes.com/lit/heart/summary.html... into data/Sparknotes_KB/Heart_of_Darkness.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Heart of Darkness","http://www.sparknotes.com/lit/heart/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/heart/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Heart of Darkness","http://www.sparknotes.com/lit/heart/summary.html" Heart Darkness of
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 26 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Heart of Darkness","http://www.sparknotes.com/lit/heart/summary.html" - achieved 78 facts!
+Extract KB from http://www.sparknotes.com/lit/heddagabler/summary.html... into data/Sparknotes_KB/Hedda_Gabler.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Hedda Gabler","http://www.sparknotes.com/lit/heddagabler/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/heddagabler/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Hedda Gabler","http://www.sparknotes.com/lit/heddagabler/summary.html" Hedda Gabler
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 20 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Hedda Gabler","http://www.sparknotes.com/lit/heddagabler/summary.html" - achieved 74 facts!
+Extract KB from http://www.sparknotes.com/shakespeare/henry4pt2/summary.html... into data/Sparknotes_KB/Henry_IV_Part_2.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Henry IV Part 2","http://www.sparknotes.com/shakespeare/henry4pt2/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/shakespeare/henry4pt2/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Henry IV Part 2","http://www.sparknotes.com/shakespeare/henry4pt2/summary.html" summary 2 plot Part Shakespeare's IV Henry
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 1 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Henry IV Part 2","http://www.sparknotes.com/shakespeare/henry4pt2/summary.html" - achieved 41 facts!
+Extract KB from http://www.sparknotes.com/shakespeare/henryv/summary.html... into data/Sparknotes_KB/Henry_V.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Henry V","http://www.sparknotes.com/shakespeare/henryv/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/shakespeare/henryv/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Henry V","http://www.sparknotes.com/shakespeare/henryv/summary.html" V Henry
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 1 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Henry V","http://www.sparknotes.com/shakespeare/henryv/summary.html" - achieved 27 facts!
+Extract KB from http://www.sparknotes.com/shakespeare/henry6pt1/summary.html... into data/Sparknotes_KB/Henry_VI_Part_1.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Henry VI Part 1","http://www.sparknotes.com/shakespeare/henry6pt1/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/shakespeare/henry6pt1/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Henry VI Part 1","http://www.sparknotes.com/shakespeare/henry6pt1/summary.html" summary 1 VI Part Shakespeare's Henry
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 31 paragaphs!
+[main] ERROR tk.otfkb.demo.DemoSetup - Errors: no subject found! a great army::that::trapped
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Henry VI Part 1","http://www.sparknotes.com/shakespeare/henry6pt1/summary.html" - achieved 123 facts!
+Extract KB from http://www.sparknotes.com/shakespeare/henry6pt2/summary.html... into data/Sparknotes_KB/Henry_VI_Part_2.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Henry VI Part 2","http://www.sparknotes.com/shakespeare/henry6pt2/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/shakespeare/henry6pt2/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Henry VI Part 2","http://www.sparknotes.com/shakespeare/henry6pt2/summary.html" summary 2 VI plot Part Shakespeare's Henry
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 28 paragaphs!
+[main] ERROR tk.otfkb.demo.DemoSetup - Errors: no subject found! people::who::read
+[main] ERROR tk.otfkb.demo.DemoSetup - Errors: no subject found! Cade::who::flees
+[main] ERROR tk.otfkb.demo.DemoSetup - Errors: no subject found! he::kills::him
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Henry VI Part 2","http://www.sparknotes.com/shakespeare/henry6pt2/summary.html" - achieved 152 facts!
+Extract KB from http://www.sparknotes.com/shakespeare/henry6pt3/summary.html... into data/Sparknotes_KB/Henry_VI_Part_3.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Henry VI Part 3","http://www.sparknotes.com/shakespeare/henry6pt3/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/shakespeare/henry6pt3/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Henry VI Part 3","http://www.sparknotes.com/shakespeare/henry6pt3/summary.html" summary VI 3 plot Part Shakespeare's Henry
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 29 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Henry VI Part 3","http://www.sparknotes.com/shakespeare/henry6pt3/summary.html" - achieved 109 facts!
+Extract KB from http://www.sparknotes.com/shakespeare/henryviii/summary.html... into data/Sparknotes_KB/Henry_VIII.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Henry VIII","http://www.sparknotes.com/shakespeare/henryviii/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Henry VIII","http://www.sparknotes.com/shakespeare/henryviii/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 0 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Henry VIII","http://www.sparknotes.com/shakespeare/henryviii/summary.html" - achieved 0 facts!
+Extract KB from http://www.sparknotes.com/lit/herland/summary.html... into data/Sparknotes_KB/Herland.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Herland","http://www.sparknotes.com/lit/herland/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/herland/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Herland","http://www.sparknotes.com/lit/herland/summary.html" Herland
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 22 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Herland","http://www.sparknotes.com/lit/herland/summary.html" - achieved 106 facts!
+Extract KB from http://www.sparknotes.com/lit/howardsend/summary.html... into data/Sparknotes_KB/Howards_End.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Howards End","http://www.sparknotes.com/lit/howardsend/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Howards End","http://www.sparknotes.com/lit/howardsend/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 0 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Howards End","http://www.sparknotes.com/lit/howardsend/summary.html" - achieved 0 facts!
+Extract KB from http://www.sparknotes.com/lit/jude/summary.html... into data/Sparknotes_KB/Jude_the_Obscure.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Jude the Obscure","http://www.sparknotes.com/lit/jude/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/jude/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Jude the Obscure","http://www.sparknotes.com/lit/jude/summary.html" the Jude Obscure
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 1 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Jude the Obscure","http://www.sparknotes.com/lit/jude/summary.html" - achieved 36 facts!
+Extract KB from http://www.sparknotes.com/shakespeare/juliuscaesar/summary.html... into data/Sparknotes_KB/Julius_Caesar.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Julius Caesar","http://www.sparknotes.com/shakespeare/juliuscaesar/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/shakespeare/juliuscaesar/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Julius Caesar","http://www.sparknotes.com/shakespeare/juliuscaesar/summary.html" Caesar Julius
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 34 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Julius Caesar","http://www.sparknotes.com/shakespeare/juliuscaesar/summary.html" - achieved 131 facts!
+Extract KB from http://www.sparknotes.com/lit/kidnapped/summary.html... into data/Sparknotes_KB/Kidnapped.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Kidnapped","http://www.sparknotes.com/lit/kidnapped/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/kidnapped/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Kidnapped","http://www.sparknotes.com/lit/kidnapped/summary.html" Kidnapped
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 34 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Kidnapped","http://www.sparknotes.com/lit/kidnapped/summary.html" - achieved 142 facts!
+Extract KB from http://www.sparknotes.com/shakespeare/kingjohn/summary.html... into data/Sparknotes_KB/King_John.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "King John","http://www.sparknotes.com/shakespeare/kingjohn/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/shakespeare/kingjohn/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "King John","http://www.sparknotes.com/shakespeare/kingjohn/summary.html" King John
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 25 paragaphs!
+[main] ERROR tk.otfkb.demo.DemoSetup - Errors: no subject found! he::left::him
+[main] ERROR tk.otfkb.demo.DemoSetup - Errors: no subject found! he::left::him
+[main] ERROR tk.otfkb.demo.DemoSetup - Errors: no subject found! he::left::him
+[main] ERROR tk.otfkb.demo.DemoSetup - Errors: no subject found! he::left::him
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "King John","http://www.sparknotes.com/shakespeare/kingjohn/summary.html" - achieved 99 facts!
+Extract KB from http://www.sparknotes.com/shakespeare/lear/summary.html... into data/Sparknotes_KB/King_Lear.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "King Lear","http://www.sparknotes.com/shakespeare/lear/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/shakespeare/lear/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "King Lear","http://www.sparknotes.com/shakespeare/lear/summary.html" King Lear
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 1 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "King Lear","http://www.sparknotes.com/shakespeare/lear/summary.html" - achieved 37 facts!
+Extract KB from http://www.sparknotes.com/lit/littlewomen/summary.html... into data/Sparknotes_KB/Little_Women.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Little Women","http://www.sparknotes.com/lit/littlewomen/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/littlewomen/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Little Women","http://www.sparknotes.com/lit/littlewomen/summary.html" Women Little
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 22 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Little Women","http://www.sparknotes.com/lit/littlewomen/summary.html" - achieved 83 facts!
+Extract KB from http://www.sparknotes.com/lit/lordjim/summary.html... into data/Sparknotes_KB/Lord_Jim.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Lord Jim","http://www.sparknotes.com/lit/lordjim/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/lordjim/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Lord Jim","http://www.sparknotes.com/lit/lordjim/summary.html" Lord Jim
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 1 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Lord Jim","http://www.sparknotes.com/lit/lordjim/summary.html" - achieved 41 facts!
+Extract KB from http://www.sparknotes.com/shakespeare/labours/summary.html... into data/Sparknotes_KB/Love's_Labours_Lost.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Love's Labours Lost","http://www.sparknotes.com/shakespeare/labours/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/shakespeare/labours/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Love's Labours Lost","http://www.sparknotes.com/shakespeare/labours/summary.html" Lost Labour's Love's
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 1 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Love's Labours Lost","http://www.sparknotes.com/shakespeare/labours/summary.html" - achieved 55 facts!
+Extract KB from http://www.sparknotes.com/drama/lysistrata/summary.html... into data/Sparknotes_KB/Lysistrata.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Lysistrata","http://www.sparknotes.com/drama/lysistrata/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/drama/lysistrata/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Lysistrata","http://www.sparknotes.com/drama/lysistrata/summary.html" Lysistrata
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 20 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Lysistrata","http://www.sparknotes.com/drama/lysistrata/summary.html" - achieved 41 facts!
+Extract KB from http://www.sparknotes.com/shakespeare/macbeth/summary.html... into data/Sparknotes_KB/Macbeth.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Macbeth","http://www.sparknotes.com/shakespeare/macbeth/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/shakespeare/macbeth/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Macbeth","http://www.sparknotes.com/shakespeare/macbeth/summary.html" Macbeth
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 30 paragaphs!
+[main] ERROR tk.otfkb.demo.DemoSetup - Errors: no subject found! all::that::happened
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Macbeth","http://www.sparknotes.com/shakespeare/macbeth/summary.html" - achieved 61 facts!
+Extract KB from http://www.sparknotes.com/lit/bovary/summary.html... into data/Sparknotes_KB/Madame_Bovary.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Madame Bovary","http://www.sparknotes.com/lit/bovary/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/bovary/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Madame Bovary","http://www.sparknotes.com/lit/bovary/summary.html" Madame Bovary
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 30 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Madame Bovary","http://www.sparknotes.com/lit/bovary/summary.html" - achieved 68 facts!
+Extract KB from http://www.sparknotes.com/lit/maggie/summary.html... into data/Sparknotes_KB/Maggie:_A_Girl_of_the_Streets.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Maggie: A Girl of the Streets","http://www.sparknotes.com/lit/maggie/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Maggie: A Girl of the Streets","http://www.sparknotes.com/lit/maggie/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 0 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Maggie: A Girl of the Streets","http://www.sparknotes.com/lit/maggie/summary.html" - achieved 0 facts!
+Extract KB from http://www.sparknotes.com/lit/mainstreet/summary.html... into data/Sparknotes_KB/Main_Street.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Main Street","http://www.sparknotes.com/lit/mainstreet/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Main Street","http://www.sparknotes.com/lit/mainstreet/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 0 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Main Street","http://www.sparknotes.com/lit/mainstreet/summary.html" - achieved 0 facts!
+Extract KB from http://www.sparknotes.com/drama/majorbarbara/summary.html... into data/Sparknotes_KB/Major_Barbara.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Major Barbara","http://www.sparknotes.com/drama/majorbarbara/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Major Barbara","http://www.sparknotes.com/drama/majorbarbara/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 0 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Major Barbara","http://www.sparknotes.com/drama/majorbarbara/summary.html" - achieved 0 facts!
+Extract KB from http://www.sparknotes.com/lit/mansfieldpark/summary.html... into data/Sparknotes_KB/Mansfield_Park.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Mansfield Park","http://www.sparknotes.com/lit/mansfieldpark/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Mansfield Park","http://www.sparknotes.com/lit/mansfieldpark/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 0 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Mansfield Park","http://www.sparknotes.com/lit/mansfieldpark/summary.html" - achieved 0 facts!
+Extract KB from http://www.sparknotes.com/shakespeare/measure/summary.html... into data/Sparknotes_KB/Measure_for_Measure.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Measure for Measure","http://www.sparknotes.com/shakespeare/measure/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/shakespeare/measure/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Measure for Measure","http://www.sparknotes.com/shakespeare/measure/summary.html" Measure for
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 1 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Measure for Measure","http://www.sparknotes.com/shakespeare/measure/summary.html" - achieved 61 facts!
+Extract KB from http://www.sparknotes.com/lit/middlemarch/summary.html... into data/Sparknotes_KB/Middlemarch.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Middlemarch","http://www.sparknotes.com/lit/middlemarch/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/middlemarch/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Middlemarch","http://www.sparknotes.com/lit/middlemarch/summary.html" Middlemarch
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 21 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Middlemarch","http://www.sparknotes.com/lit/middlemarch/summary.html" - achieved 49 facts!
+Extract KB from http://www.sparknotes.com/shakespeare/muchado/summary.html... into data/Sparknotes_KB/Much_Ado_About_Nothing.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Much Ado About Nothing","http://www.sparknotes.com/shakespeare/muchado/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/shakespeare/muchado/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Much Ado About Nothing","http://www.sparknotes.com/shakespeare/muchado/summary.html" Much Ado Nothing About
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 24 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Much Ado About Nothing","http://www.sparknotes.com/shakespeare/muchado/summary.html" - achieved 57 facts!
+Extract KB from http://www.sparknotes.com/lit/narrative/summary.html... into data/Sparknotes_KB/Narrative_of_the_Life_of_Frederick_Douglass.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Narrative of the Life of Frederick Douglass","http://www.sparknotes.com/lit/narrative/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Narrative of the Life of Frederick Douglass","http://www.sparknotes.com/lit/narrative/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 0 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Narrative of the Life of Frederick Douglass","http://www.sparknotes.com/lit/narrative/summary.html" - achieved 0 facts!
+Extract KB from http://www.sparknotes.com/lit/northangerabbey/summary.html... into data/Sparknotes_KB/Northanger_Abbey.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Northanger Abbey","http://www.sparknotes.com/lit/northangerabbey/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/northangerabbey/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Northanger Abbey","http://www.sparknotes.com/lit/northangerabbey/summary.html" Northanger Abbey
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 23 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Northanger Abbey","http://www.sparknotes.com/lit/northangerabbey/summary.html" - achieved 82 facts!
+Extract KB from http://www.sparknotes.com/lit/opioneers/summary.html... into data/Sparknotes_KB/O_Pioneers!.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "O Pioneers!","http://www.sparknotes.com/lit/opioneers/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "O Pioneers!","http://www.sparknotes.com/lit/opioneers/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 0 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "O Pioneers!","http://www.sparknotes.com/lit/opioneers/summary.html" - achieved 0 facts!
+Extract KB from http://www.sparknotes.com/lit/oliver/summary.html... into data/Sparknotes_KB/Oliver_Twist.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Oliver Twist","http://www.sparknotes.com/lit/oliver/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/oliver/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Oliver Twist","http://www.sparknotes.com/lit/oliver/summary.html" Twist Oliver
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 1 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Oliver Twist","http://www.sparknotes.com/lit/oliver/summary.html" - achieved 53 facts!
+Extract KB from http://www.sparknotes.com/shakespeare/othello/summary.html... into data/Sparknotes_KB/Othello.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Othello","http://www.sparknotes.com/shakespeare/othello/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/shakespeare/othello/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Othello","http://www.sparknotes.com/shakespeare/othello/summary.html" Othello
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 38 paragaphs!
+[main] ERROR tk.otfkb.demo.DemoSetup - Errors: no subject found! he::help::him
+[main] ERROR tk.otfkb.demo.DemoSetup - Errors: no subject found! he::help::him
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Othello","http://www.sparknotes.com/shakespeare/othello/summary.html" - achieved 168 facts!
+Extract KB from http://www.sparknotes.com/poetry/paradiselost/summary.html... into data/Sparknotes_KB/Paradise_Lost.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Paradise Lost","http://www.sparknotes.com/poetry/paradiselost/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/poetry/paradiselost/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Paradise Lost","http://www.sparknotes.com/poetry/paradiselost/summary.html" Lost Paradise
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 28 paragaphs!
+[main] ERROR tk.otfkb.demo.DemoSetup - Errors: no subject found! his fellow rebel angels::who::found
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Paradise Lost","http://www.sparknotes.com/poetry/paradiselost/summary.html" - achieved 144 facts!
+Extract KB from http://www.sparknotes.com/lit/persuasion/summary.html... into data/Sparknotes_KB/Persuasion.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Persuasion","http://www.sparknotes.com/lit/persuasion/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/persuasion/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Persuasion","http://www.sparknotes.com/lit/persuasion/summary.html" summary Persuasion
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 19 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Persuasion","http://www.sparknotes.com/lit/persuasion/summary.html" - achieved 74 facts!
+Extract KB from http://www.sparknotes.com/lit/pride/summary.html... into data/Sparknotes_KB/Pride_and_Prejudice.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Pride and Prejudice","http://www.sparknotes.com/lit/pride/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/pride/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Pride and Prejudice","http://www.sparknotes.com/lit/pride/summary.html" Pride and Prejudice
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 29 paragaphs!
+[main] ERROR tk.otfkb.demo.DemoSetup - Errors: no subject found! Mr. Bennet?s property::which::entailed
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Pride and Prejudice","http://www.sparknotes.com/lit/pride/summary.html" - achieved 79 facts!
+Extract KB from http://www.sparknotes.com/lit/pygmalion/summary.html... into data/Sparknotes_KB/Pygmalion.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Pygmalion","http://www.sparknotes.com/lit/pygmalion/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/pygmalion/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Pygmalion","http://www.sparknotes.com/lit/pygmalion/summary.html" Pygmalion
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 1 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Pygmalion","http://www.sparknotes.com/lit/pygmalion/summary.html" - achieved 31 facts!
+Extract KB from http://www.sparknotes.com/shakespeare/richardii/summary.html... into data/Sparknotes_KB/Richard_II.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Richard II","http://www.sparknotes.com/shakespeare/richardii/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Richard II","http://www.sparknotes.com/shakespeare/richardii/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 0 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Richard II","http://www.sparknotes.com/shakespeare/richardii/summary.html" - achieved 0 facts!
+Extract KB from http://www.sparknotes.com/shakespeare/romeojuliet/summary.html... into data/Sparknotes_KB/Romeo_and_Juliet.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Romeo and Juliet","http://www.sparknotes.com/shakespeare/romeojuliet/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/shakespeare/romeojuliet/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Romeo and Juliet","http://www.sparknotes.com/shakespeare/romeojuliet/summary.html" and Romeo Juliet
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 37 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Romeo and Juliet","http://www.sparknotes.com/shakespeare/romeojuliet/summary.html" - achieved 102 facts!
+Extract KB from http://www.sparknotes.com/lit/sensibility/summary.html... into data/Sparknotes_KB/Sense_and_Sensibility.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Sense and Sensibility","http://www.sparknotes.com/lit/sensibility/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/sensibility/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Sense and Sensibility","http://www.sparknotes.com/lit/sensibility/summary.html" and Sensibility Sense
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 21 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Sense and Sensibility","http://www.sparknotes.com/lit/sensibility/summary.html" - achieved 44 facts!
+Extract KB from http://www.sparknotes.com/lit/siddhartha/summary.html... into data/Sparknotes_KB/Siddhartha.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Siddhartha","http://www.sparknotes.com/lit/siddhartha/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/siddhartha/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Siddhartha","http://www.sparknotes.com/lit/siddhartha/summary.html" Siddhartha
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 28 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Siddhartha","http://www.sparknotes.com/lit/siddhartha/summary.html" - achieved 154 facts!
+Extract KB from http://www.sparknotes.com/lit/silas/summary.html... into data/Sparknotes_KB/Silas_Marner.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Silas Marner","http://www.sparknotes.com/lit/silas/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/silas/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Silas Marner","http://www.sparknotes.com/lit/silas/summary.html" Silas Marner
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 0 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Silas Marner","http://www.sparknotes.com/lit/silas/summary.html" - achieved 0 facts!
+Extract KB from http://www.sparknotes.com/lit/sistercarrie/summary.html... into data/Sparknotes_KB/Sister_Carrie.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Sister Carrie","http://www.sparknotes.com/lit/sistercarrie/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Sister Carrie","http://www.sparknotes.com/lit/sistercarrie/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 0 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Sister Carrie","http://www.sparknotes.com/lit/sistercarrie/summary.html" - achieved 0 facts!
+Extract KB from http://www.sparknotes.com/drama/spanishtragedy/summary.html... into data/Sparknotes_KB/Spanish_Tragedy.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Spanish Tragedy","http://www.sparknotes.com/drama/spanishtragedy/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Spanish Tragedy","http://www.sparknotes.com/drama/spanishtragedy/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 0 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Spanish Tragedy","http://www.sparknotes.com/drama/spanishtragedy/summary.html" - achieved 0 facts!
+Extract KB from http://www.sparknotes.com/lit/swannsway/summary.html... into data/Sparknotes_KB/Swann's_Way.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Swann's Way","http://www.sparknotes.com/lit/swannsway/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/swannsway/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Swann's Way","http://www.sparknotes.com/lit/swannsway/summary.html" Swann's Way
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 17 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Swann's Way","http://www.sparknotes.com/lit/swannsway/summary.html" - achieved 60 facts!
+Extract KB from http://www.sparknotes.com/lit/tomsawyer/summary.html... into data/Sparknotes_KB/The_Adventures_of_Tom_Sawyer.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "The Adventures of Tom Sawyer","http://www.sparknotes.com/lit/tomsawyer/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/tomsawyer/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "The Adventures of Tom Sawyer","http://www.sparknotes.com/lit/tomsawyer/summary.html" The Tom of Adventures Sawyer
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 26 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "The Adventures of Tom Sawyer","http://www.sparknotes.com/lit/tomsawyer/summary.html" - achieved 65 facts!
+Extract KB from http://www.sparknotes.com/lit/aeneid/summary.html... into data/Sparknotes_KB/The_Aeneid.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "The Aeneid","http://www.sparknotes.com/lit/aeneid/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/aeneid/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "The Aeneid","http://www.sparknotes.com/lit/aeneid/summary.html" The Aeneid
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 23 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "The Aeneid","http://www.sparknotes.com/lit/aeneid/summary.html" - achieved 58 facts!
+Extract KB from http://www.sparknotes.com/lit/american/summary.html... into data/Sparknotes_KB/The_American.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "The American","http://www.sparknotes.com/lit/american/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/american/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "The American","http://www.sparknotes.com/lit/american/summary.html" The American
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 0 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "The American","http://www.sparknotes.com/lit/american/summary.html" - achieved 0 facts!
+Extract KB from http://www.sparknotes.com/shakespeare/errors/summary.html... into data/Sparknotes_KB/The_Comedy_of_Errors.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "The Comedy of Errors","http://www.sparknotes.com/shakespeare/errors/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: https://www.sparknotes.com/shakespeare/errors/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "The Comedy of Errors","http://www.sparknotes.com/shakespeare/errors/summary.html" The Errors of Comedy
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 0 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "The Comedy of Errors","http://www.sparknotes.com/shakespeare/errors/summary.html" - achieved 0 facts!
+Extract KB from http://www.sparknotes.com/lit/montecristo/summary.html... into data/Sparknotes_KB/The_Count_of_Monte_Cristo.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "The Count of Monte Cristo","http://www.sparknotes.com/lit/montecristo/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/montecristo/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "The Count of Monte Cristo","http://www.sparknotes.com/lit/montecristo/summary.html" The of Cristo Count Monte
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 35 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "The Count of Monte Cristo","http://www.sparknotes.com/lit/montecristo/summary.html" - achieved 74 facts!
+Extract KB from http://www.sparknotes.com/lit/mirth/summary.html... into data/Sparknotes_KB/The_House_of_Mirth.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "The House of Mirth","http://www.sparknotes.com/lit/mirth/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/mirth/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "The House of Mirth","http://www.sparknotes.com/lit/mirth/summary.html" The Mirth of House
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 1 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "The House of Mirth","http://www.sparknotes.com/lit/mirth/summary.html" - achieved 38 facts!
+Extract KB from http://www.sparknotes.com/lit/sevengables/summary.html... into data/Sparknotes_KB/The_House_of_the_Seven_Gables.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "The House of the Seven Gables","http://www.sparknotes.com/lit/sevengables/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/sevengables/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "The House of the Seven Gables","http://www.sparknotes.com/lit/sevengables/summary.html" The the of House Seven Gables
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 19 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "The House of the Seven Gables","http://www.sparknotes.com/lit/sevengables/summary.html" - achieved 73 facts!
+Extract KB from http://www.sparknotes.com/lit/iliad/summary.html... into data/Sparknotes_KB/The_Iliad.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "The Iliad","http://www.sparknotes.com/lit/iliad/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/iliad/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "The Iliad","http://www.sparknotes.com/lit/iliad/summary.html" The Iliad
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 26 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "The Iliad","http://www.sparknotes.com/lit/iliad/summary.html" - achieved 81 facts!
+Extract KB from http://www.sparknotes.com/drama/jewofmalta/summary.html... into data/Sparknotes_KB/The_Jew_of_Malta.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "The Jew of Malta","http://www.sparknotes.com/drama/jewofmalta/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "The Jew of Malta","http://www.sparknotes.com/drama/jewofmalta/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 0 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "The Jew of Malta","http://www.sparknotes.com/drama/jewofmalta/summary.html" - achieved 0 facts!
+Extract KB from http://www.sparknotes.com/lit/jungle/summary.html... into data/Sparknotes_KB/The_Jungle.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "The Jungle","http://www.sparknotes.com/lit/jungle/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/jungle/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "The Jungle","http://www.sparknotes.com/lit/jungle/summary.html" The Jungle
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 26 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "The Jungle","http://www.sparknotes.com/lit/jungle/summary.html" - achieved 99 facts!
+Extract KB from http://www.sparknotes.com/lit/mohicans/summary.html... into data/Sparknotes_KB/The_Last_of_the_Mohicans.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "The Last of the Mohicans","http://www.sparknotes.com/lit/mohicans/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/mohicans/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "The Last of the Mohicans","http://www.sparknotes.com/lit/mohicans/summary.html" The the Last of Mohicans
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 20 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "The Last of the Mohicans","http://www.sparknotes.com/lit/mohicans/summary.html" - achieved 76 facts!
+Extract KB from http://www.sparknotes.com/lit/casterbridge/summary.html... into data/Sparknotes_KB/The_Mayor_of_Casterbridge.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "The Mayor of Casterbridge","http://www.sparknotes.com/lit/casterbridge/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/casterbridge/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "The Mayor of Casterbridge","http://www.sparknotes.com/lit/casterbridge/summary.html" The Casterbridge Mayor of
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 25 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "The Mayor of Casterbridge","http://www.sparknotes.com/lit/casterbridge/summary.html" - achieved 77 facts!
+Extract KB from http://www.sparknotes.com/shakespeare/merchant/summary.html... into data/Sparknotes_KB/The_Merchant_of_Venice.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "The Merchant of Venice","http://www.sparknotes.com/shakespeare/merchant/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/shakespeare/merchant/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "The Merchant of Venice","http://www.sparknotes.com/shakespeare/merchant/summary.html" The Merchant of Venice
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 24 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "The Merchant of Venice","http://www.sparknotes.com/shakespeare/merchant/summary.html" - achieved 77 facts!
+Extract KB from http://www.sparknotes.com/shakespeare/merrywives/summary.html... into data/Sparknotes_KB/The_Merry_Wives_of_Windsor.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "The Merry Wives of Windsor","http://www.sparknotes.com/shakespeare/merrywives/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "The Merry Wives of Windsor","http://www.sparknotes.com/shakespeare/merrywives/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 0 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "The Merry Wives of Windsor","http://www.sparknotes.com/shakespeare/merrywives/summary.html" - achieved 0 facts!
+Extract KB from http://www.sparknotes.com/lit/doriangray/summary.html... into data/Sparknotes_KB/The_Picture_of_Dorian_Gray.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "The Picture of Dorian Gray","http://www.sparknotes.com/lit/doriangray/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/doriangray/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "The Picture of Dorian Gray","http://www.sparknotes.com/lit/doriangray/summary.html" The Gray Dorian Picture of
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 24 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "The Picture of Dorian Gray","http://www.sparknotes.com/lit/doriangray/summary.html" - achieved 53 facts!
+Extract KB from http://www.sparknotes.com/lit/portraitlady/summary.html... into data/Sparknotes_KB/The_Portrait_of_a_Lady.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "The Portrait of a Lady","http://www.sparknotes.com/lit/portraitlady/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/portraitlady/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "The Portrait of a Lady","http://www.sparknotes.com/lit/portraitlady/summary.html" The a of Portrait Lady
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 22 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "The Portrait of a Lady","http://www.sparknotes.com/lit/portraitlady/summary.html" - achieved 104 facts!
+Extract KB from http://www.sparknotes.com/philosophy/republic/summary.html... into data/Sparknotes_KB/The_Republic.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "The Republic","http://www.sparknotes.com/philosophy/republic/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/philosophy/republic/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "The Republic","http://www.sparknotes.com/philosophy/republic/summary.html" The Republic
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 27 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "The Republic","http://www.sparknotes.com/philosophy/republic/summary.html" - achieved 88 facts!
+Extract KB from http://www.sparknotes.com/lit/returnofnative/summary.html... into data/Sparknotes_KB/The_Return_of_the_Native.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "The Return of the Native","http://www.sparknotes.com/lit/returnofnative/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/returnofnative/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "The Return of the Native","http://www.sparknotes.com/lit/returnofnative/summary.html" The the Native Return of
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 1 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "The Return of the Native","http://www.sparknotes.com/lit/returnofnative/summary.html" - achieved 29 facts!
+Extract KB from http://www.sparknotes.com/lit/scarlet/summary.html... into data/Sparknotes_KB/The_Scarlet_Letter.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "The Scarlet Letter","http://www.sparknotes.com/lit/scarlet/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/scarlet/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "The Scarlet Letter","http://www.sparknotes.com/lit/scarlet/summary.html" The Letter Scarlet
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 28 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "The Scarlet Letter","http://www.sparknotes.com/lit/scarlet/summary.html" - achieved 80 facts!
+Extract KB from http://www.sparknotes.com/lit/secretgarden/summary.html... into data/Sparknotes_KB/The_Secret_Garden.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "The Secret Garden","http://www.sparknotes.com/lit/secretgarden/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/secretgarden/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "The Secret Garden","http://www.sparknotes.com/lit/secretgarden/summary.html" The Secret Garden
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 26 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "The Secret Garden","http://www.sparknotes.com/lit/secretgarden/summary.html" - achieved 61 facts!
+Extract KB from http://www.sparknotes.com/shakespeare/shrew/summary.html... into data/Sparknotes_KB/The_Taming_of_the_Shrew.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "The Taming of the Shrew","http://www.sparknotes.com/shakespeare/shrew/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/shakespeare/shrew/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "The Taming of the Shrew","http://www.sparknotes.com/shakespeare/shrew/summary.html" The the Taming of Shrew
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 29 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "The Taming of the Shrew","http://www.sparknotes.com/shakespeare/shrew/summary.html" - achieved 85 facts!
+Extract KB from http://www.sparknotes.com/shakespeare/tempest/summary.html... into data/Sparknotes_KB/The_Tempest.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "The Tempest","http://www.sparknotes.com/shakespeare/tempest/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/shakespeare/tempest/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "The Tempest","http://www.sparknotes.com/shakespeare/tempest/summary.html" The Tempest
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 34 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "The Tempest","http://www.sparknotes.com/shakespeare/tempest/summary.html" - achieved 178 facts!
+Extract KB from http://www.sparknotes.com/lit/3musk/summary.html... into data/Sparknotes_KB/The_Three_Musketeers.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "The Three Musketeers","http://www.sparknotes.com/lit/3musk/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/3musk/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "The Three Musketeers","http://www.sparknotes.com/lit/3musk/summary.html" The Musketeers Three
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 21 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "The Three Musketeers","http://www.sparknotes.com/lit/3musk/summary.html" - achieved 42 facts!
+Extract KB from http://www.sparknotes.com/lit/trial/summary.html... into data/Sparknotes_KB/The_Trial.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "The Trial","http://www.sparknotes.com/lit/trial/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/trial/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "The Trial","http://www.sparknotes.com/lit/trial/summary.html" The Trial
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 1 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "The Trial","http://www.sparknotes.com/lit/trial/summary.html" - achieved 28 facts!
+Extract KB from http://www.sparknotes.com/lit/screw/summary.html... into data/Sparknotes_KB/The_Turn_of_the_Screw.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "The Turn of the Screw","http://www.sparknotes.com/lit/screw/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/screw/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "The Turn of the Screw","http://www.sparknotes.com/lit/screw/summary.html" The the Screw of Turn
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 31 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "The Turn of the Screw","http://www.sparknotes.com/lit/screw/summary.html" - achieved 82 facts!
+Extract KB from http://www.sparknotes.com/shakespeare/twogentlemen/summary.html... into data/Sparknotes_KB/The_Two_Gentlemen_of_Verona.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "The Two Gentlemen of Verona","http://www.sparknotes.com/shakespeare/twogentlemen/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/shakespeare/twogentlemen/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "The Two Gentlemen of Verona","http://www.sparknotes.com/shakespeare/twogentlemen/summary.html" The of Verona Gentlemen Two
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 1 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "The Two Gentlemen of Verona","http://www.sparknotes.com/shakespeare/twogentlemen/summary.html" - achieved 44 facts!
+Extract KB from http://www.sparknotes.com/shakespeare/winterstale/summary.html... into data/Sparknotes_KB/The_Winter's_Tale.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "The Winter's Tale","http://www.sparknotes.com/shakespeare/winterstale/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/shakespeare/winterstale/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "The Winter's Tale","http://www.sparknotes.com/shakespeare/winterstale/summary.html" The Tale Winter's
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 24 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "The Winter's Tale","http://www.sparknotes.com/shakespeare/winterstale/summary.html" - achieved 56 facts!
+Extract KB from http://www.sparknotes.com/lit/paradise/summary.html... into data/Sparknotes_KB/This_Side_of_Paradise.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "This Side of Paradise","http://www.sparknotes.com/lit/paradise/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "This Side of Paradise","http://www.sparknotes.com/lit/paradise/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 0 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "This Side of Paradise","http://www.sparknotes.com/lit/paradise/summary.html" - achieved 0 facts!
+Extract KB from http://www.sparknotes.com/shakespeare/timonofathens/summary.html... into data/Sparknotes_KB/Timon_of_Athens.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Timon of Athens","http://www.sparknotes.com/shakespeare/timonofathens/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/shakespeare/timonofathens/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Timon of Athens","http://www.sparknotes.com/shakespeare/timonofathens/summary.html" Timon of Athens
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 27 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Timon of Athens","http://www.sparknotes.com/shakespeare/timonofathens/summary.html" - achieved 93 facts!
+Extract KB from http://www.sparknotes.com/shakespeare/titus/summary.html... into data/Sparknotes_KB/Titus_Andronicus.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Titus Andronicus","http://www.sparknotes.com/shakespeare/titus/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/shakespeare/titus/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Titus Andronicus","http://www.sparknotes.com/shakespeare/titus/summary.html" Andronicus Titus
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 1 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Titus Andronicus","http://www.sparknotes.com/shakespeare/titus/summary.html" - achieved 36 facts!
+Extract KB from http://www.sparknotes.com/lit/treasure/summary.html... into data/Sparknotes_KB/Treasure_Island.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Treasure Island","http://www.sparknotes.com/lit/treasure/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/treasure/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Treasure Island","http://www.sparknotes.com/lit/treasure/summary.html" Treasure Island
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 26 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Treasure Island","http://www.sparknotes.com/lit/treasure/summary.html" - achieved 62 facts!
+Extract KB from http://www.sparknotes.com/shakespeare/troilus/summary.html... into data/Sparknotes_KB/Troilus_and_Cressida.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Troilus and Cressida","http://www.sparknotes.com/shakespeare/troilus/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/shakespeare/troilus/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Troilus and Cressida","http://www.sparknotes.com/shakespeare/troilus/summary.html" Troilus and Cressida
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 1 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Troilus and Cressida","http://www.sparknotes.com/shakespeare/troilus/summary.html" - achieved 25 facts!
+Extract KB from http://www.sparknotes.com/shakespeare/twelfthnight/summary.html... into data/Sparknotes_KB/Twelfth_Night.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Twelfth Night","http://www.sparknotes.com/shakespeare/twelfthnight/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/shakespeare/twelfthnight/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Twelfth Night","http://www.sparknotes.com/shakespeare/twelfthnight/summary.html" Night Twelfth
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 28 paragaphs!
+[main] ERROR tk.otfkb.demo.DemoSetup - Errors: more than a subject found! Orsino::loves::Olivia
+[main] ERROR tk.otfkb.demo.DemoSetup - Errors: more than a subject found! Orsino::loves::Olivia
+[main] ERROR tk.otfkb.demo.DemoSetup - Errors: more than a subject found! Orsino::loves::Olivia
+[main] ERROR tk.otfkb.demo.DemoSetup - Errors: more than a subject found! Orsino::loves::Olivia
+[main] ERROR tk.otfkb.demo.DemoSetup - Errors: no subject found! some elements::which::give
+[main] ERROR tk.otfkb.demo.DemoSetup - Errors: no subject found! some elements::which::give
+[main] ERROR tk.otfkb.demo.DemoSetup - Errors: no subject found! some elements::which::gi
+[main] ERROR tk.otfkb.demo.DemoSetup - Errors: no subject found! some elements::which::gi
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Twelfth Night","http://www.sparknotes.com/shakespeare/twelfthnight/summary.html" - achieved 84 facts!
+Extract KB from http://www.sparknotes.com/lit/typee/summary.html... into data/Sparknotes_KB/Typee.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Typee","http://www.sparknotes.com/lit/typee/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/typee/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Typee","http://www.sparknotes.com/lit/typee/summary.html" summary Typee
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 20 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Typee","http://www.sparknotes.com/lit/typee/summary.html" - achieved 65 facts!
+Extract KB from http://www.sparknotes.com/lit/ulysses/summary.html... into data/Sparknotes_KB/Ulysses.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Ulysses","http://www.sparknotes.com/lit/ulysses/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/ulysses/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Ulysses","http://www.sparknotes.com/lit/ulysses/summary.html" Ulysses
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 35 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Ulysses","http://www.sparknotes.com/lit/ulysses/summary.html" - achieved 76 facts!
+Extract KB from http://www.sparknotes.com/lit/uncletom/summary.html... into data/Sparknotes_KB/Uncle_Tom's_Cabin.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "Uncle Tom's Cabin","http://www.sparknotes.com/lit/uncletom/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/uncletom/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "Uncle Tom's Cabin","http://www.sparknotes.com/lit/uncletom/summary.html" Uncle Cabin Tom's
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 26 paragaphs!
+[main] ERROR tk.otfkb.demo.DemoSetup - Errors: no subject found! everyone::who::knew
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "Uncle Tom's Cabin","http://www.sparknotes.com/lit/uncletom/summary.html" - achieved 68 facts!
+Extract KB from http://www.sparknotes.com/lit/warandpeace/summary.html... into data/Sparknotes_KB/War_and_Peace.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "War and Peace","http://www.sparknotes.com/lit/warandpeace/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "War and Peace","http://www.sparknotes.com/lit/warandpeace/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 0 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "War and Peace","http://www.sparknotes.com/lit/warandpeace/summary.html" - achieved 0 facts!
+Extract KB from http://www.sparknotes.com/lit/fang/summary.html... into data/Sparknotes_KB/White_Fang.txt
+[main] INFO tk.otfkb.demo.DemoSetup - query: "White Fang","http://www.sparknotes.com/lit/fang/summary.html"
+[main] INFO tk.otfkb.demo.DemoSetup - filter: 
+[main] INFO tk.otfkb.demo.DemoSetup - Process: http://www.sparknotes.com/lit/fang/summary.html
+[main] INFO tk.otfkb.demo.DemoSetup - Modified query: "White Fang","http://www.sparknotes.com/lit/fang/summary.html" White Fang
+[main] INFO tk.otfkb.demo.DemoSetup - Will be annotating 1 paragaphs!
+[main] INFO tk.otfkb.demo.DemoSetup - Done extracting query: "White Fang","http://www.sparknotes.com/lit/fang/summary.html" - achieved 39 facts!

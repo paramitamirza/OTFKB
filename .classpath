@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="libs/otfkb.jar"/>
+	<classpathentry kind="lib" path="libs/slf4j-simple-1.7.12.jar"/>
+	<classpathentry kind="lib" path="libs/slf4j-api-1.7.12.jar"/>
+	<classpathentry kind="lib" path="libs/jsoup-1.8.2.jar"/>
+	<classpathentry kind="lib" path="libs/mpi-TokenizerService2-20130410.jar"/>
+	<classpathentry kind="lib" path="libs/javatools_20130226.jar"/>
+	<classpathentry kind="lib" path="libs/trove-3.0.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
